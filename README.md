@@ -135,3 +135,7 @@ chmod +x rebuild.sh
 - [Nix Flakes Manual](https://nixos.wiki/wiki/Flakes)
 - [home-manager Repository](https://github.com/nix-community/home-manager)
 - [nix-darwin Project](https://github.com/LnL7/nix-darwin)
+
+
+## License
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
