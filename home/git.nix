@@ -14,7 +14,7 @@
     # -- Settings (replaces userName, userEmail, extraConfig, aliases) ------
     settings = {
       user.name = "nayandas69";
-      user.email = "nayandas69@users.noreply.github.com";
+      user.email = "174907517+nayandas69@users.noreply.github.com";
 
       init.defaultBranch = "main";
       push.default = "current";
