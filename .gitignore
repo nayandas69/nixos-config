@@ -1,0 +1,9 @@
+# nixos
+*.qcow2
+.direnv
+.direnv.local
+.envrc.local
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
